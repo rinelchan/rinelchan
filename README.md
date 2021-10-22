@@ -12,4 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rinelchan)](https://github.com/rinelchan/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/9760e735-8f22-404a-9489-fcc96dc2c403.svg)](https://wakatime.com/@9760e735-8f22-404a-9489-fcc96dc2c403)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
