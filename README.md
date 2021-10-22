@@ -10,9 +10,14 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinelchan&layout=compact)](https://github.com/rinelchan/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinelchan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/rinelchan/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinelchan&show_icons=true&theme=radical)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rinelchan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rinelchan)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
