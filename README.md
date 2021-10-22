@@ -11,3 +11,10 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinelchan&layout=compact&show_icons=true&theme=radical)](https://github.com/rinelchan/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/9760e735-8f22-404a-9489-fcc96dc2c403.svg)](https://wakatime.com/@9760e735-8f22-404a-9489-fcc96dc2c403)
+
+<a href="https://github.com/rinelchan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rinelchan&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/rinelchan/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rinelchan&repo=convoychat" />
+</a>
