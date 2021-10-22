@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinelchan&layout=compact)](https://github.com/rinelchan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinelchan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/rinelchan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinelchan&layout=compact&show_icons=true&theme=radical)](https://github.com/rinelchan/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinelchan&show_icons=true&theme=radical)
 
