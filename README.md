@@ -11,6 +11,3 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinelchan&layout=compact&show_icons=true&theme=radical)](https://github.com/rinelchan/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rinelchan)](https://github.com/anuraghazra/github-readme-stats)
-
-[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-nice.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
-
